@@ -1,3 +1,7 @@
+# this script is same as the yolo video script
+
+# but it doesnt draw any boxes around the images of the cars
+
 # import the necessary packages
 import numpy as np
 import imutils
