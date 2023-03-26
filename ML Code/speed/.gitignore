@@ -1,0 +1,10 @@
+*.mp4
+*.mkv
+*.jpg
+*.mov
+*.avi
+*.xml
+*.gif
+*.png
+*.weights
+__pycache__/**
